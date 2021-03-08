@@ -1,7 +1,6 @@
 import time
 import os
 
-os.system("apt-get update && apt-get upgrade")
 os.system("apt-get install git")
 os.system("apt-get install figlet")
 os.system("clear")
