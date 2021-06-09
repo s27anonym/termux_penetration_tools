@@ -142,4 +142,4 @@ if pn == "30":
 
 else:
     print(
-        "Bak güzel kardeşim bak yakışıklı kardeşim OĞLUM İNATMI YAPIYORSUNUZ AMK HERKES AYNI ŞEYİ YAPIYOR SİKCEM BELANIZI YENİDEN ÇALIŞTIR ARACI YANLIŞ TUŞA BASTIN YİNE")
+        "sanırım bi yerde yanlışlık yaptınız lütfen tekrar deneyiniz ;)")
