@@ -9,7 +9,7 @@ os.system("figlet Termux_Framework")
 print("""
 Aracımız termux için geliştirilmiştir Sızma testlerinde kullanılan 30 önemli aracı bir araya toplayıp termux kullnıcılarının hizmetine veriyoruz 
 
-S27anonym
+fadess
 
 """)
 
