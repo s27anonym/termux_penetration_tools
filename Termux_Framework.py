@@ -9,7 +9,7 @@ os.system("figlet Termux_Framework")
 print("""
 Aracımız termux için geliştirilmiştir Sızma testlerinde kullanılan 30 önemli aracı bir araya toplayıp termux kullnıcılarının hizmetine veriyoruz 
 
-Exodia
+S27anonyM
 
 """)
 
@@ -142,4 +142,4 @@ if pn == "30":
 
 else:
     print(
-        "sanırım bi yerde yanlışlık yaptınız lütfen tekrar deneyiniz ;)")
+        "sanırım bir yerde yanlışlık yaptınız lütfen tekrar deneyiniz ;)")
